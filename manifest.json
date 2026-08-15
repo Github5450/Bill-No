@@ -1,0 +1,13 @@
+{
+  "name": "عبدالمجید ووڈ شاپ",
+  "short_name": "ووڈ شاپ",
+  "description": "عبدالمجید ووڈ شاپ بلنگ ایپ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2A1810",
+  "theme_color": "#2A1810",
+  "orientation": "portrait",
+  "lang": "ur",
+  "dir": "rtl",
+  "icons": []
+}
